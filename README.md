@@ -15,4 +15,4 @@ This repository is a collection of scripts, configurations, and guides to demons
 3. Execute scripts with proper permissions (e.g., `sudo ./secure-ssh.sh`).
 
 ## License
-This project is licensed under the Apache 2.0 License License.
+This project is licensed under the Apache 2.0 License.
