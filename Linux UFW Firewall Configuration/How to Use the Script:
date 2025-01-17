@@ -1,0 +1,8 @@
+1. Save the script as setup-firewall.sh.
+2. Make it executable. 
+          Command : chmod +x setup-firewall.sh
+3. Run the script: 
+         Command : ./setup-firewall.sh
+
+This script will automate the process of setting up a simple firewall on your Linux system with UFW.
+
